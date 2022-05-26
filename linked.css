@@ -1,0 +1,17 @@
+.alex{
+
+
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("https://cdn.motor1.com/images/mgl/7ZL4go/s3/bmw-320i-msport-2021.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+    margin: 0%;
+
+}
